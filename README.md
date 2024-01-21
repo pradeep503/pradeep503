@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pradeep yadav</h1>
 <h3 align="center">A passionate MEARN Stack developer from India.</h3>
 
+<img align="left" width="300"  src="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeep503&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep503" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pradeepyadav" target="blank"><img src="https://img.shields.io/twitter/follow/pradeepyadav?logo=twitter&style=for-the-badge" alt="pradeepyadav" /></a> </p>
