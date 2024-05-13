@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Pradeep yadav</h1>
-<h3 align="center">A passionate MEARN Stack developer from India.</h3>
+<h3 align="center">A passionate MERN Stack developer from India.</h3>
 
 <img align="right" width="300"  src="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif" >
 
